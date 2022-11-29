@@ -1,6 +1,8 @@
 body{
     background:url("GitHub-logo1.jpg");
-    background-size:cover;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 65%;
 }
 
 h1,h2{
